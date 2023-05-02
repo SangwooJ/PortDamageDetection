@@ -1,3 +1,19 @@
+
+# Dataset
+
+- 17184 images from India and Japan with 4 Class ( D00, D10, D20, D40) using RDD2020
+
+- I have followed all the configuration from original repo (described below)
+
+- Modified Training_Notebook.ipynb for training in local Jupyterlab Environment
+
+- Added interesting test case for vertical port damage detection
+
+<img src="Images/result/dalle_result.png">
+
+
+
+______________________________________________________________-
 # Yolov4_Road_Damage_Detection
 A Repository to Train a Custom Yolov4 based object detector for road damage detection using the RDD2020 dataset.
 

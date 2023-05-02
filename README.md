@@ -1,11 +1,11 @@
 
-# Dataset
+# Vertical Port Damage Detection
 
-- 17184 images from India and Japan with 4 Class ( D00, D10, D20, D40) using RDD2020
+- **Dataset** : 17184 images from India and Japan with 4 Class ( D00, D10, D20, D40) using RDD2020
 
-- I have followed all the configuration from original repo (described below)
+- I have followed all the configuration from original repo (described below) [link](https://github.com/adnanmushtaq1996/Yolov4_Road_Damage_Detection)
 
-- Modified Training_Notebook.ipynb for training in local Jupyterlab Environment
+- **Training_Notebook.ipynb** : Modified for training in local Jupyterlab Environment and handled some errors
 
 - Added interesting test case for vertical port damage detection
 
@@ -13,8 +13,8 @@
 
 
 
-______________________________________________________________-
-# Yolov4_Road_Damage_Detection
+_______________________________________________________________
+# [Yolov4_Road_Damage_Detection](https://github.com/adnanmushtaq1996/Yolov4_Road_Damage_Detection)
 A Repository to Train a Custom Yolov4 based object detector for road damage detection using the RDD2020 dataset.
 
 # Table of Contents

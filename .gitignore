@@ -1,6 +1,5 @@
 # List of files/folders to be ignored by git
 
 Data/
-Data_India/
 training/
 .ipynb_checkpoints/

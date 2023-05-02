@@ -1,5 +1,5 @@
 classes = 4
-train = /content/gdrive/MyDrive/Road_Damage_Detection/configs/train.txt
-valid = /content/gdrive/MyDrive/Road_Damage_Detection/configs/test.txt
-names = /content/gdrive/MyDrive/Road_Damage_Detection/configs/obj.names
-backup = /content/gdrive/MyDrive/Road_Damage_Detection/training
+train = /home/dmsai4/project/PortUAV/configs/train.txt
+valid = /home/dmsai4/project/PortUAV/configs/test.txt
+names = /home/dmsai4/project/PortUAV/configs/obj.names
+backup = /home/dmsai4/project/PortUAV/training
